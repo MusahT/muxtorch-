@@ -1,4 +1,3 @@
-
 document.addEventListener("DOMContentLoaded", () => {
     const openFormButton = document.getElementById("open-form");
     const closeFormButton = document.getElementById("close-form");
